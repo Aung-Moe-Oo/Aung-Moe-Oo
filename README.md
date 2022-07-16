@@ -7,7 +7,7 @@ Frontend Web Developer and React Developer
 From my experience of years as a self-taught front-end web developer, I have learned how to create responsive websites using React.js and Next.js. I am ready to continue expanding my skill set and create new beautiful website designs that are perfect for every screen size or device type.
 
 * 🌍  I'm based in Myanmar
-* 🖥️  See my portfolio at [Aung Moe Oo](http://aung-moe-oo.github.io/portfolio)
+* 🖥️  See my portfolio at [Aung Moe Oo](https://aungmoeoo-portfolio.netlify.app)
 * ✉️  You can contact me at [aungmoeoofreelancer@gmail.com](mailto:aungmoeoofreelancer@gmail.com)
 * 🧠  I'm learning Backend Web Development
 
