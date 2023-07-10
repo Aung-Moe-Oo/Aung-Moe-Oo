@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sai Aung Moe Oo
 ===================================================================================================================================
 
-Full Stack Developer and React Developer
+Full Stack Developer (MERN Stack)
 ------------------------------------------
 
-From my experience of years as a self-taught web developer, I have learned how to create responsive and dynamic websites using React.js, Next.js and Node.js. I am ready to continue expanding my skill set and create new beautiful website designs that are perfect for every screen size or device type.
+From my experience of years as a self-taught web developer, I have learned how to create responsive and dynamic websites using React.js, Next.js, Node.js, Express.js and Nest.js. I am ready to continue expanding my skill set and create new beautiful website designs that are perfect for every screen size or device type.
 
 * 🌍  I'm based in Myanmar and currently working as a full-stack developer
 * 🖥️  See my portfolio at [Sai Aung Moe Oo](https://aungmoeoo-portfolio.vercel.app)
