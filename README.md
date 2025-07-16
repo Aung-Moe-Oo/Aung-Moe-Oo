@@ -6,7 +6,7 @@ Full Stack Developer (MERN Stack)
 
 From my experience of years as a self-taught web developer, I have learned how to create responsive and dynamic websites using React.js, Next.js, Node.js, Express.js and Nest.js. I am ready to continue expanding my skill set and create new beautiful website designs that are perfect for every screen size or device type.
 
-* 🌍  I'm based in Myanmar and currently working as a full-stack developer
+* 🌍  I'm currently in Thailand and working as a full-stack developer
 * 🖥️  See my portfolio at [Sai Aung Moe Oo](https://aungmoeoo-portfolio.vercel.app)
 * ✉️  You can contact me at [saiaungmoeoo.lk@gmail.com](mailto:saiaungmoeoo.lk@gmail.com)
 
